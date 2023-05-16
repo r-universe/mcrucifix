@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "palinsol"]
+	path = palinsol
+	url = https://bitbucket.org/mcrucifix/insol
+	shallow = true
+	registered = true
