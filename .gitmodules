@@ -5,6 +5,6 @@
 	branch = HEAD
 [submodule "palinsol"]
 	path = palinsol
-	url = https://bitbucket.org/mcrucifix/insol
+	url = https://github.com/mcrucifix/palinsol
 	shallow = true
 	registered = true
